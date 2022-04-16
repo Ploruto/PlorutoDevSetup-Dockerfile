@@ -25,6 +25,8 @@
 
 ########## ASTRO VIM SETUP
 
+mkdir -p ~/.config/nvim
+
 #Install Nerd font
 
  https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/JetBrainsMono/Ligatures/Regular/complete/JetBrains%20Mono%20Regular%20Nerd%20Font%20Complete%20Mono.ttf -o JetBrainsMonoNerdFont.ttf
