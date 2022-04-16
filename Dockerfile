@@ -1,3 +1,5 @@
+FROM ubuntu:focal
+
 RUN apt-get update
 
 # Install sudo command...
