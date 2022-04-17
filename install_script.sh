@@ -32,6 +32,8 @@ mkdir -p ~/.config/nvim
 
 curl https://github.com/ryanoasis/nerd-fonts/raw/master/patched-fonts/JetBrainsMono/Ligatures/Regular/complete/JetBrains%20Mono%20Regular%20Nerd%20Font%20Complete%20Mono.ttf -o JetBrainsMonoNerdFont.ttf
 
+mkdir -p /usr/local/share/fonts
+
  mv JetBrainsMonoNerdFont.ttf /usr/local/share/fonts
 
  fc-cache -f -v
